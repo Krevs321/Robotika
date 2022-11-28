@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="D:\Faks\Robotika\02\Robotika\venv"
+VIRTUAL_ENV="D:\Faks\Robotika\022\Robotika\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
